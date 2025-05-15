@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "name": "mourad assairh",
+      "email": "mourad.assairh@gmail.com",
+      "phone": "0648754587",
+      "id": "1"
+    },
+    {
+      "id": "eed8",
+      "name": "nom",
+      "email": "email@gmail.com",
+      "phone": "064587954"
+    }
+  ]
+}
